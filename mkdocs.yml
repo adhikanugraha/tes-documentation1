@@ -1,0 +1,6 @@
+site_name: E-commerce Feature Documentation
+site_description: Dokumentasi fitur e-commerce dari login sampai order confirmation
+
+nav:
+  - Home: index.md
+  - Login: login.md
